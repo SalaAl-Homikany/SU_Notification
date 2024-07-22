@@ -1,5 +1,5 @@
 # SU_Notification
-Itvis necessary to download WhatsApp and Telegramm app for it work "Sunotification" download link :
+It is necessary to download WhatsApp and Telegramm app for it work "Sunotification" download link :
 
 WhatsApp App :
 https://frappecloud.com/marketplace/apps/frappe_whatsapp
